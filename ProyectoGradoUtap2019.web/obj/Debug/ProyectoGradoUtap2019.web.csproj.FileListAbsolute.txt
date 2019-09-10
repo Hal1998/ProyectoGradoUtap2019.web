@@ -1,0 +1,146 @@
+C:\Users\Miguel\source\repos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\ProyectoGradoUtap2019.web.dll.config
+C:\Users\Miguel\source\repos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\ProyectoGradoUtap2019.web.dll
+C:\Users\Miguel\source\repos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\ProyectoGradoUtap2019.web.pdb
+C:\Users\Miguel\source\repos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\csc.exe
+C:\Users\Miguel\source\repos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\csc.exe.config
+C:\Users\Miguel\source\repos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\csc.rsp
+C:\Users\Miguel\source\repos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\csi.exe
+C:\Users\Miguel\source\repos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\csi.exe.config
+C:\Users\Miguel\source\repos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\csi.rsp
+C:\Users\Miguel\source\repos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Miguel\source\repos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Miguel\source\repos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Miguel\source\repos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Miguel\source\repos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Miguel\source\repos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Miguel\source\repos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Miguel\source\repos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Miguel\source\repos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Miguel\source\repos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Miguel\source\repos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Miguel\source\repos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\System.AppContext.dll
+C:\Users\Miguel\source\repos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Miguel\source\repos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\System.Console.dll
+C:\Users\Miguel\source\repos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Miguel\source\repos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Miguel\source\repos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\System.IO.Compression.dll
+C:\Users\Miguel\source\repos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Miguel\source\repos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Miguel\source\repos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Miguel\source\repos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Miguel\source\repos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Miguel\source\repos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Miguel\source\repos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\System.Security.Claims.dll
+C:\Users\Miguel\source\repos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Miguel\source\repos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Miguel\source\repos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Miguel\source\repos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Miguel\source\repos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Miguel\source\repos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Miguel\source\repos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\System.ValueTuple.dll
+C:\Users\Miguel\source\repos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Miguel\source\repos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Miguel\source\repos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Miguel\source\repos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Miguel\source\repos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\vbc.exe
+C:\Users\Miguel\source\repos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\vbc.exe.config
+C:\Users\Miguel\source\repos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\vbc.rsp
+C:\Users\Miguel\source\repos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Miguel\source\repos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Miguel\source\repos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\AjaxControlToolkit.dll
+C:\Users\Miguel\source\repos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\BouncyCastle.Crypto.dll
+C:\Users\Miguel\source\repos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\EntityFramework.dll
+C:\Users\Miguel\source\repos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\EntityFramework.SqlServer.dll
+C:\Users\Miguel\source\repos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\Google.Protobuf.dll
+C:\Users\Miguel\source\repos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Miguel\source\repos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\MySql.Data.dll
+C:\Users\Miguel\source\repos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\Newtonsoft.Json.dll
+C:\Users\Miguel\source\repos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\ProyectoGradoUtap2019.Logica.dll
+C:\Users\Miguel\source\repos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\Renci.SshNet.dll
+C:\Users\Miguel\source\repos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\ProyectoGradoUtap2019.Logica.pdb
+C:\Users\Miguel\source\repos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\ProyectoGradoUtap2019.Logica.dll.config
+C:\Users\Miguel\source\repos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\EntityFramework.xml
+C:\Users\Miguel\source\repos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\EntityFramework.SqlServer.xml
+C:\Users\Miguel\source\repos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\Google.Protobuf.xml
+C:\Users\Miguel\source\repos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\MySql.Data.xml
+C:\Users\Miguel\source\repos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\Newtonsoft.Json.xml
+C:\Users\Miguel\source\repos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\Renci.SshNet.xml
+C:\Users\Miguel\source\repos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Miguel\source\repos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\obj\Debug\ProyectoGradoUtap2019.web.csprojAssemblyReference.cache
+C:\Users\Miguel\source\repos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\obj\Debug\ProyectoGradoUtap2019.web.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\source\repos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\obj\Debug\ProyectoGradoUtap2019.web.csproj.CopyComplete
+C:\Users\Miguel\source\repos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\obj\Debug\ProyectoGradoUtap2019.web.dll
+C:\Users\Miguel\source\repos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\obj\Debug\ProyectoGradoUtap2019.web.pdb
+C:\Users\Bairon Ortiz\Downloads\Trabajos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\ProyectoGradoUtap2019.web.dll.config
+C:\Users\Bairon Ortiz\Downloads\Trabajos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\ProyectoGradoUtap2019.web.dll
+C:\Users\Bairon Ortiz\Downloads\Trabajos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\ProyectoGradoUtap2019.web.pdb
+C:\Users\Bairon Ortiz\Downloads\Trabajos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\csc.exe
+C:\Users\Bairon Ortiz\Downloads\Trabajos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\csc.exe.config
+C:\Users\Bairon Ortiz\Downloads\Trabajos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\csc.rsp
+C:\Users\Bairon Ortiz\Downloads\Trabajos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\csi.exe
+C:\Users\Bairon Ortiz\Downloads\Trabajos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\csi.exe.config
+C:\Users\Bairon Ortiz\Downloads\Trabajos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\csi.rsp
+C:\Users\Bairon Ortiz\Downloads\Trabajos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Bairon Ortiz\Downloads\Trabajos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bairon Ortiz\Downloads\Trabajos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Bairon Ortiz\Downloads\Trabajos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Bairon Ortiz\Downloads\Trabajos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Bairon Ortiz\Downloads\Trabajos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Bairon Ortiz\Downloads\Trabajos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Bairon Ortiz\Downloads\Trabajos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Bairon Ortiz\Downloads\Trabajos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Bairon Ortiz\Downloads\Trabajos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Bairon Ortiz\Downloads\Trabajos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Bairon Ortiz\Downloads\Trabajos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\System.AppContext.dll
+C:\Users\Bairon Ortiz\Downloads\Trabajos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Bairon Ortiz\Downloads\Trabajos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\System.Console.dll
+C:\Users\Bairon Ortiz\Downloads\Trabajos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Bairon Ortiz\Downloads\Trabajos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Bairon Ortiz\Downloads\Trabajos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\System.IO.Compression.dll
+C:\Users\Bairon Ortiz\Downloads\Trabajos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Bairon Ortiz\Downloads\Trabajos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Bairon Ortiz\Downloads\Trabajos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Bairon Ortiz\Downloads\Trabajos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Bairon Ortiz\Downloads\Trabajos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Bairon Ortiz\Downloads\Trabajos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Bairon Ortiz\Downloads\Trabajos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\System.Security.Claims.dll
+C:\Users\Bairon Ortiz\Downloads\Trabajos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Bairon Ortiz\Downloads\Trabajos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Bairon Ortiz\Downloads\Trabajos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Bairon Ortiz\Downloads\Trabajos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Bairon Ortiz\Downloads\Trabajos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Bairon Ortiz\Downloads\Trabajos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Bairon Ortiz\Downloads\Trabajos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\System.ValueTuple.dll
+C:\Users\Bairon Ortiz\Downloads\Trabajos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Bairon Ortiz\Downloads\Trabajos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Bairon Ortiz\Downloads\Trabajos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Bairon Ortiz\Downloads\Trabajos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Bairon Ortiz\Downloads\Trabajos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\vbc.exe
+C:\Users\Bairon Ortiz\Downloads\Trabajos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\vbc.exe.config
+C:\Users\Bairon Ortiz\Downloads\Trabajos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\vbc.rsp
+C:\Users\Bairon Ortiz\Downloads\Trabajos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Bairon Ortiz\Downloads\Trabajos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Bairon Ortiz\Downloads\Trabajos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\AjaxControlToolkit.dll
+C:\Users\Bairon Ortiz\Downloads\Trabajos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\BouncyCastle.Crypto.dll
+C:\Users\Bairon Ortiz\Downloads\Trabajos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\EntityFramework.dll
+C:\Users\Bairon Ortiz\Downloads\Trabajos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\EntityFramework.SqlServer.dll
+C:\Users\Bairon Ortiz\Downloads\Trabajos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\Google.Protobuf.dll
+C:\Users\Bairon Ortiz\Downloads\Trabajos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Bairon Ortiz\Downloads\Trabajos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\MySql.Data.dll
+C:\Users\Bairon Ortiz\Downloads\Trabajos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\Newtonsoft.Json.dll
+C:\Users\Bairon Ortiz\Downloads\Trabajos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\ProyectoGradoUtap2019.Logica.dll
+C:\Users\Bairon Ortiz\Downloads\Trabajos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\Renci.SshNet.dll
+C:\Users\Bairon Ortiz\Downloads\Trabajos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\ProyectoGradoUtap2019.Logica.pdb
+C:\Users\Bairon Ortiz\Downloads\Trabajos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\ProyectoGradoUtap2019.Logica.dll.config
+C:\Users\Bairon Ortiz\Downloads\Trabajos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\EntityFramework.xml
+C:\Users\Bairon Ortiz\Downloads\Trabajos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\EntityFramework.SqlServer.xml
+C:\Users\Bairon Ortiz\Downloads\Trabajos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\Google.Protobuf.xml
+C:\Users\Bairon Ortiz\Downloads\Trabajos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\MySql.Data.xml
+C:\Users\Bairon Ortiz\Downloads\Trabajos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\Newtonsoft.Json.xml
+C:\Users\Bairon Ortiz\Downloads\Trabajos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\Renci.SshNet.xml
+C:\Users\Bairon Ortiz\Downloads\Trabajos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Bairon Ortiz\Downloads\Trabajos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\obj\Debug\ProyectoGradoUtap2019.web.csprojAssemblyReference.cache
+C:\Users\Bairon Ortiz\Downloads\Trabajos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\obj\Debug\ProyectoGradoUtap2019.web.csproj.CoreCompileInputs.cache
+C:\Users\Bairon Ortiz\Downloads\Trabajos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\obj\Debug\ProyectoGradoUtap2019.web.csproj.CopyComplete
+C:\Users\Bairon Ortiz\Downloads\Trabajos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\obj\Debug\ProyectoGradoUtap2019.web.dll
+C:\Users\Bairon Ortiz\Downloads\Trabajos\ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web\obj\Debug\ProyectoGradoUtap2019.web.pdb

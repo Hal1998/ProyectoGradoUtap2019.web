@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProyectoGradoUtap2019.web", "ProyectoGradoUtap2019.web\ProyectoGradoUtap2019.web.csproj", "{4A70EAD9-C687-4D06-9A08-A2A4930176D4}"
+	ProjectSection(ProjectDependencies) = postProject
+		{B178D288-8336-49CA-BFCD-E7D8006B57CF} = {B178D288-8336-49CA-BFCD-E7D8006B57CF}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProyectoGradoUtap2019.Logica", "ProyectoGradoUtap2019.Logica\ProyectoGradoUtap2019.Logica.csproj", "{B178D288-8336-49CA-BFCD-E7D8006B57CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A70EAD9-C687-4D06-9A08-A2A4930176D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A70EAD9-C687-4D06-9A08-A2A4930176D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A70EAD9-C687-4D06-9A08-A2A4930176D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A70EAD9-C687-4D06-9A08-A2A4930176D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B178D288-8336-49CA-BFCD-E7D8006B57CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B178D288-8336-49CA-BFCD-E7D8006B57CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B178D288-8336-49CA-BFCD-E7D8006B57CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B178D288-8336-49CA-BFCD-E7D8006B57CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6140DB75-D76A-48A3-A07B-C4C61935666B}
+	EndGlobalSection
+EndGlobal
