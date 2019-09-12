@@ -17,3 +17,6 @@ namespace ProyectoGradoUtap2019.Logica.Models
         public string stEstadoMotor { get; set; }
     }
 }
+
+
+
